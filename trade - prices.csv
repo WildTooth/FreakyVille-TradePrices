@@ -31,16 +31,16 @@ Orange Dye,320,448,FALSE,TRUE
 Magenta Dye,384,576,FALSE,TRUE
 Purple Dye,384,576,FALSE,TRUE
 Pink Dye,384,576,FALSE,TRUE
-Red Glass,80,128,FALSE,TRUE
-Orange Glass,40,56,FALSE,TRUE
-Magenta Glass,48,72,FALSE,TRUE
-Purple Glass,48,72,FALSE,TRUE
-Pink Glass,48,72,FALSE,TRUE
-Red Glass Pane,29,38,FALSE,TRUE
-Orange Glass Pane,5,11,FALSE,TRUE
-Magenta Glass Pane,8,17,FALSE,TRUE
-Purple Glass Pane,8,17,FALSE,TRUE
-Pink Glass Pane,8,17,FALSE,TRUE
+Red Stained Glass,80,128,FALSE,TRUE
+Orange Stained Glass,40,56,FALSE,TRUE
+Magenta Stained Glass,48,72,FALSE,TRUE
+Purple Stained Glass,48,72,FALSE,TRUE
+Pink Stained Glass,48,72,FALSE,TRUE
+Red Stained Glass Pane,29,38,FALSE,TRUE
+Orange Stained Glass Pane,5,11,FALSE,TRUE
+Magenta Stained Glass Pane,8,17,FALSE,TRUE
+Purple Stained Glass Pane,8,17,FALSE,TRUE
+Pink Stained Glass Pane,8,17,FALSE,TRUE
 String,14,16,FALSE,FALSE
 Wool,54,59,FALSE,FALSE
 Painting,54,59,FALSE,FALSE
