@@ -1,0 +1,60 @@
+NAVN,MIN-PRIS,MAX-PRIS,HEAD?,DBS?
+Dandelion,0,0,FALSE,TRUE
+Oxeye Daisy,1920,3200,FALSE,TRUE
+Azure Bluet,0,0,FALSE,TRUE
+Red Tulip,2688,3200,FALSE,TRUE
+Orange Tulip,2688,3200,FALSE,TRUE
+Pink Tulip,0,0,FALSE,TRUE
+White Tulip,0,0,FALSE,TRUE
+Peony,-2,-2,FALSE,TRUE
+Lilac,0,0,FALSE,TRUE
+Rose Bush,0,0,FALSE,TRUE
+Blue Orchid,0,0,FALSE,TRUE
+Allium,0,0,FALSE,TRUE
+Dead Bush,0,0,FALSE,TRUE
+Red Wool,512,704,FALSE,TRUE
+Orange Wool,192,384,FALSE,TRUE
+Magenta Wool,256,448,FALSE,TRUE
+Purple Wool,256,448,FALSE,TRUE
+Pink Wool,256,448,FALSE,TRUE
+Red Carpet,-2,-2,FALSE,TRUE
+Orange Carpet,-2,-2,FALSE,TRUE
+Magenta Carpet,-2,-2,FALSE,TRUE
+Purple Carpet,-2,-2,FALSE,TRUE
+Pink Carpet,-2,-2,FALSE,TRUE
+Red Banner,0,0,FALSE,TRUE
+Orange Banner,0,0,FALSE,TRUE
+Magenta Banner,0,0,FALSE,TRUE
+Purple Banner,0,0,FALSE,TRUE
+Pink Banner,0,0,FALSE,TRUE
+Red Dye,640,1024,FALSE,TRUE
+Orange Dye,320,448,FALSE,TRUE
+Magenta Dye,384,576,FALSE,TRUE
+Purple Dye,384,576,FALSE,TRUE
+Pink Dye,384,576,FALSE,TRUE
+Red Glass,80,128,FALSE,TRUE
+Orange Glass,40,56,FALSE,TRUE
+Magenta Glass,48,72,FALSE,TRUE
+Purple Glass,48,72,FALSE,TRUE
+Pink Glass,48,72,FALSE,TRUE
+Red Glass Pane,29,38,FALSE,TRUE
+Orange Glass Pane,5,11,FALSE,TRUE
+Magenta Glass Pane,8,17,FALSE,TRUE
+Purple Glass Pane,8,17,FALSE,TRUE
+Pink Glass Pane,8,17,FALSE,TRUE
+String,14,16,FALSE,FALSE
+Wool,54,59,FALSE,FALSE
+Painting,54,59,FALSE,FALSE
+Bed,16,20,FALSE,TRUE
+Banner,34,38,FALSE,TRUE
+White Carpet,2,3,FALSE,TRUE
+Auktion Token,3,5,FALSE,FALSE
+-> Legend Key <-,1,2,FALSE,FALSE
+* Vagtkill *,6,8,FALSE,TRUE
+Computer,5,9,FALSE,FALSE
+Spruce Wood Stairs,2,4,FALSE,TRUE
+Stone Brick Stairs,3,4,FALSE,FALSE
+Diamond Ore,3,4,FALSE,FALSE
+Vaskepolet,2,4,FALSE,TRUE
+Bookshelf,20,32,FALSE,TRUE
+Sunflower,1,2,FALSE,FALSE
