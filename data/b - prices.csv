@@ -1,0 +1,170 @@
+Dandelion,2,2,FALSE,TRUE
+Oxeye Daisy,1920,3200,FALSE,TRUE
+Azure Bluet,0,0,FALSE,TRUE
+Red Tulip,2688,3200,FALSE,TRUE
+Orange Tulip,2688,3200,FALSE,TRUE
+Pink Tulip,0,0,FALSE,TRUE
+White Tulip,0,0,FALSE,TRUE
+Poppy,-2,-2,FALSE,TRUE
+Peony,-2,-2,FALSE,TRUE
+Lilac,0,0,FALSE,TRUE
+Rose Bush,0,0,FALSE,TRUE
+Blue Orchid,0,0,FALSE,TRUE
+Allium,0,0,FALSE,TRUE
+Dead Bush,0,0,FALSE,TRUE
+Red Wool,512,704,FALSE,TRUE
+Orange Wool,192,384,FALSE,TRUE
+Magenta Wool,256,448,FALSE,TRUE
+Purple Wool,256,448,FALSE,TRUE
+Pink Wool,256,448,FALSE,TRUE
+Red Carpet,-2,-2,FALSE,TRUE
+Orange Carpet,-2,-2,FALSE,TRUE
+Magenta Carpet,-2,-2,FALSE,TRUE
+Purple Carpet,-2,-2,FALSE,TRUE
+Pink Carpet,-2,-2,FALSE,TRUE
+Red Banner,0,0,FALSE,TRUE
+Orange Banner,0,0,FALSE,TRUE
+Magenta Banner,0,0,FALSE,TRUE
+Purple Banner,0,0,FALSE,TRUE
+Pink Banner,0,0,FALSE,TRUE
+Red Dye,640,1024,FALSE,TRUE
+Orange Dye,320,448,FALSE,TRUE
+Magenta Dye,384,576,FALSE,TRUE
+Purple Dye,384,576,FALSE,TRUE
+Pink Dye,384,576,FALSE,TRUE
+Red Stained Glass,80,128,FALSE,TRUE
+Orange Stained Glass,40,56,FALSE,TRUE
+Magenta Stained Glass,48,72,FALSE,TRUE
+Purple Stained Glass,48,72,FALSE,TRUE
+Pink Stained Glass,48,72,FALSE,TRUE
+Red Stained Glass Pane,29,38,FALSE,TRUE
+Orange Stained Glass Pane,5,11,FALSE,TRUE
+Magenta Stained Glass Pane,8,17,FALSE,TRUE
+Purple Stained Glass Pane,8,17,FALSE,TRUE
+Pink Stained Glass Pane,8,17,FALSE,TRUE
+String,14,16,FALSE,FALSE
+Wool,54,59,FALSE,FALSE
+Painting,54,59,FALSE,FALSE
+Bed,16,20,FALSE,TRUE
+White Banner,34,38,FALSE,TRUE
+Carpet,2,3,FALSE,TRUE
+Auktion Token,3,5,FALSE,FALSE
+-> Legend Key <-,1,2,FALSE,FALSE
+* Vagtkill *,6,8,FALSE,TRUE
+Computer,5,9,FALSE,FALSE
+Spruce Wood Stairs,2,4,FALSE,TRUE
+Stone Brick Stairs,3,4,FALSE,FALSE
+Diamond Ore,3,4,FALSE,FALSE
+Vaskepolet,2,4,FALSE,TRUE
+Bookshelf,-3,-3,FALSE,TRUE
+Sunflower,1,2,FALSE,FALSE
+Fries,0,0,TRUE,TRUE
+Burger,0,0,TRUE,TRUE
+Bird House (green),0,0,TRUE,TRUE
+Chess Board,0,0,TRUE,TRUE
+Billiard Ball 8,0,0,TRUE,TRUE
+Potted Cactus,0,0,TRUE,TRUE
+Pepsi,0,0,TRUE,TRUE
+TNT (purple),0,0,TRUE,TRUE
+Opened Melon,0,0,TRUE,TRUE
+Mob Spawner,0,0,TRUE,TRUE
+Bread,768,960,TRUE,TRUE
+Rubiks Cube,0,0,TRUE,TRUE
+Night King,0,0,TRUE,TRUE
+Cheese,448,640,TRUE,TRUE
+Netflix,0,0,TRUE,TRUE
+Lucky Block (yellow),1920,2560,TRUE,TRUE
+Oak Wood V,1280,1600,TRUE,TRUE
+Creeper Head,0,0,TRUE,TRUE
+Jack O'Lantern,-3,-3,TRUE,TRUE
+Pizza Pile,0,0,TRUE,TRUE
+Alarm Clock,0,0,TRUE,TRUE
+Snowman,-3,-3,TRUE,TRUE
+Present (red),0,0,TRUE,TRUE
+Snowglobe,0,0,TRUE,TRUE
+Birthday Cake (blue),1600,1920,TRUE,TRUE
+Toaster (red),1536,1600,TRUE,TRUE
+Red Mushroom,960,1280,TRUE,TRUE
+Melon Face,384,512,TRUE,TRUE
+Bush With Red Flowers,1408,1600,TRUE,TRUE
+Orange Monster,1152,1152,TRUE,TRUE
+Chocolate Strawberry,0,0,TRUE,TRUE
+Sprite,576,768,TRUE,TRUE
+Globe,1920,2304,TRUE,TRUE
+Baby Sheep (teal),1088,1216,TRUE,TRUE
+Candy,0,0,TRUE,TRUE
+Cookie Jar,1088,1216,TRUE,TRUE
+Honey,1152,1280,TRUE,TRUE
+Beer Barrrel,960,1024,TRUE,TRUE
+Car (pink),0,0,TRUE,TRUE
+First-Aid Kit,768,960,TRUE,TRUE
+Sapphire Ore,896,1024,TRUE,TRUE
+Cat,0,0,TRUE,TRUE
+Ender Pearl,1600,1920,TRUE,TRUE
+Nutella,960,1152,TRUE,TRUE
+Grass Block (alpha),1024,1152,TRUE,TRUE
+Burning Furnace,0,0,TRUE,TRUE
+Ancient Books,960,1024,TRUE,TRUE
+Brown Dog,0,0,TRUE,TRUE
+Wool (rainbow),960,1152,TRUE,TRUE
+Pig Spawner,1408,1664,TRUE,TRUE
+Chimney,1600,1920,TRUE,TRUE
+House,0,0,TRUE,TRUE
+Bush With Pink Flowers,2048,2240,TRUE,TRUE
+Tomato,640,768,TRUE,TRUE
+Pikachu,1152,1280,TRUE,TRUE
+Magikarp,0,0,TRUE,TRUE
+Monkey,0,0,TRUE,TRUE
+Haybale Target,1024,1152,TRUE,TRUE
+Olaf,0,0,TRUE,TRUE
+Discord,0,0,TRUE,TRUE
+Redbull,640,768,TRUE,TRUE
+Jar of Gumballs,576,640,TRUE,TRUE
+Clown,0,0,TRUE,TRUE
+Bloody Alex,0,0,TRUE,TRUE
+Skull,960,1024,TRUE,TRUE
+Trick or Treat Basket,1408,1408,TRUE,TRUE
+Christmas Tree,128,256,TRUE,TRUE
+Christmas Tree Candy,128,256,TRUE,TRUE
+Jesus,640,768,TRUE,TRUE
+Ginger Bread,0,0,TRUE,TRUE
+Christmas Sock,832,960,TRUE,TRUE
+White Monster,1088,1216,TRUE,TRUE
+Amethyst Gem,960,1216,TRUE,TRUE
+Alex Plushie,0,0,TRUE,TRUE
+End crystal orb,0,0,TRUE,TRUE
+Crystal Block,0,0,TRUE,TRUE
+Chick,1024,1152,TRUE,TRUE
+TikTok,0,0,TRUE,TRUE
+Youtube,-3,-3,TRUE,TRUE
+Easter Egg,960,1024,TRUE,TRUE
+Mickey Mouse,0,0,TRUE,TRUE
+Orange,768,896,TRUE,TRUE
+Naruto Uzumaki,0,0,TRUE,TRUE
+Hooded Slime,1728,1920,TRUE,TRUE
+Clownfish,704,832,TRUE,TRUE
+Reddit,0,0,TRUE,TRUE
+Patrick,0,0,TRUE,TRUE
+Spongebob,0,0,TRUE,TRUE
+Squidward Tentacles,1216,1408,TRUE,TRUE
+Twitch,1600,1792,TRUE,TRUE
+Deadpool,0,0,TRUE,TRUE
+Joker,0,0,TRUE,TRUE
+Bowser,576,768,TRUE,TRUE
+Stormtrooper,896,1024,TRUE,TRUE
+Shrek,0,0,TRUE,TRUE
+Mike Wazowski,0,0,TRUE,TRUE
+Donald Duck,0,0,TRUE,TRUE
+Beachball,0,0,TRUE,TRUE
+Boo,0,0,TRUE,TRUE
+Pennywise,0,0,TRUE,TRUE
+Alex in a bottle,640,768,TRUE,TRUE
+Cyborg Pig,640,768,TRUE,TRUE
+Playstation,0,0,TRUE,TRUE
+Xbox,0,0,TRUE,TRUE
+Wooden crate,0,0,TRUE,TRUE
+Barrier,0,0,TRUE,TRUE
+TV Head,0,0,TRUE,TRUE
+Shaggy Rogers,0,0,TRUE,TRUE
+Scooby doo,0,0,TRUE,TRUE
+Velma,0,0,TRUE,TRUE
