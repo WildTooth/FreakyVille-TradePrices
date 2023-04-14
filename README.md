@@ -1,8 +1,9 @@
 # FreakyVille-TradePrices
 
-This repository holds a Formatted list of commonplace trading prices on the minecraft server FreakyVille.
-The prices are from a set of google sheets documents created and maintained by the FreakyVille trademarket community.
+Dette repository indeholder en formateret liste af ofte benytted priser når man bytter ting på minecraft serveren FreakyVille.
 
-These prices are just formatted in a way that makes them easier to use when coding.
+Priserne er fra et sæt af google sheets dokumenter lavet og vedligholdt af FreakyVille trademarket fælleskabet.
 
-The specific csv file in this repository is maintained by me @WildTooth.
+Disse priser er de samme, dog formateret så det faktisk kan bruges når man koder. ;)
+
+De specifikke ``.csv`` filer i dette repository vedligeholdes af mig, @WildTooth "Champen_V1ldtand".
