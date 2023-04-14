@@ -1,27 +1,28 @@
-# How to contribute to the file
+# Sådan bidrager du til filerne
 
-## Rules
+## Regler
 
-#### 1. Do not change prices which are untrue, it'll be checked anyways.
-#### 2. Do not add items you are not certain there are "duplicates" of (E.g. Heads with the same name). It will be fixed later, but until then this rule still applies.
-#### 3. All references to prices is done in an Integer number. This means no 6,7 diamond blocks or 13 Stacks of DBs. These would be written 61 (for diamonds) and 832 (for diamond blocks). 
+#### 1. Lad være med at ændre priserne til noget de ikke er. Dette vil blive tjekket uanset.
+#### 2. Tilføj ikke items som deler navn med andre sjældne items. (F.eks. et head med navnet "Cactus" skal ikke tilføjes, da der er et item med samme navn)
+#### - : Dette er grundet en fejl i måden det hele er sat op på. Når dette laves om, skal de heads nok blive tilføjet.
+#### 3. Alle referencer til priser gøres som et heltal, altså et tal uden decimaler. Det vil sige at der ikke benyttes værdier, så som 6,7 diamond blocks eller 13 Stacks DBs. Disse ville i stedet været skrevet, 61 (for diamanterne) og 832 (for diamant blokkene).
 
-## Value Meanings?
+## Værdiers Betydning?
 
-#### 1. String[name]         | This describes the displayname of the Item.
-#### 2. int[minPrice]        | This describes the minimal value of the Item.
-#### 3. int[maxPrice]        | This describes the maximum value of the Item.
-#### 4. boolean[isSkullItem] | This describes wether or not the item is a skull.
-#### 5. boolean[isInBlocks]  | This describes wether the items price is disclosed in diamond blocks or pure diamonds.
+#### 1. String[name]         | Dette beskriver itemmets display name.
+#### 2. int[minPrice]        | Minimums værdien af et item.
+#### 3. int[maxPrice]        | Maximums værdien af et item.
+#### 4. boolean[isSkullItem] | Hvorvidt at der er tale om et head.
+#### 5. boolean[isInBlocks]  | Beskriver hvorvidt at itemmets værdi skal regnes i dbs, eller diamanter.
 
-## Example
+## Eksempel på hvordan det korrekt ser ud
 
 ```csv
 Diamond Sword,1,9,false,false
 ```
 
-## What not to do
+## Eksempel på hvad du ikke skal gøre
 
-```
+```csv
 Dirt,10 Stacks,20 Stacks,true,false
 ```
